@@ -2,7 +2,7 @@
 
 This project involves analyzing different aspects of Diabetes in the Pima Indians tribe.
 
-See code tab to view Notebook.
+Notebook attached with details.
 
 ## Skills & Tools Covered: 
 * Exploratory Data Analysis 
